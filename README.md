@@ -1,9 +1,7 @@
-Hi , I am Abir . 👨‍💻
 
+# Hi, I'm Islam Md Abirul 👋  
 
-# Hi, I'm [Your Name] 👋  
-
-🚀 **A passionate [Web Developer/Your Profession] from [Your Country]**  
+🚀 **A passionate Softwere Developer from Bangladesh **  
 
 ---
 
@@ -23,7 +21,7 @@ Hi , I am Abir . 👨‍💻
 - 🌱 **Currently learning:** TypeScript, PostgreSQL, NestJS & NextJS  
 - 📂 **All my projects:** [GitHub Repositories](https://github.com/yourusername?tab=repositories)  
 - 💬 **Ask me about:** ReactJS  
-- 📫 **Reach me:** [your.email@example.com](mailto:your.email@example.com)  
+- 📫 **Reach me:** [your.email@example.com](abirmehmed@gmail.com)  
 - ⚡ **Fun fact:** I think I'm a proud member of the web dev community!  
 
 ---
