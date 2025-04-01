@@ -15,10 +15,12 @@
 
 ---
 
-### **Connect with Me**  
+### **🌐 Connect with Me**  
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourusername)  
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-lightblue?style=for-the-badge&logo=twitter)](https://twitter.com/yourusername)  
-[![Gmail](https://img.shields.io/badge/Gmail-Drop_Me_An_Email-red?style=for-the-badge&logo=gmail)](mailto:your.email@example.com)  
+[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?style=for-the-badge&logo=youtube)](https://youtube.com/@yourchannel)  
+[![Gmail](https://img.shields.io/badge/Gmail-Email_Me-critical?style=for-the-badge&logo=gmail)](mailto:your.email@example.com)  
 
 ---
 
