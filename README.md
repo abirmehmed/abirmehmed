@@ -34,14 +34,7 @@
 
 ---
 
-### **📊 GitHub Stats**  
-*(Optional: Add GitHub stats using [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats))*  
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)  
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)  
 
 ---
-
-### **🔥 Visitor Counter**  
-*(Optional: Add a visitor counter)*  
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=abirmehmed.abirmehmed)  
