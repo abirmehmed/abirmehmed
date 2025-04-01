@@ -8,9 +8,9 @@
 
 ### **About Me**  
 - 🌱 **Currently learning:** TypeScript, PostgreSQL, NestJS & NextJS  
-- 📂 **All my projects:** [GitHub Repositories](https://github.com/yourusername?tab=repositories)  
+- 📂 **All my projects:** [GitHub Repositories](https://github.com/abirmehmed?tab=repositories)  
 - 💬 **Ask me about:** ReactJS  
-- 📫 **Reach me:** [your.email@example.com](abirmehmed@gmail.com)  
+- 📫 **Reach me:** [abirmehmed](abirmehmed@gmail.com)  
 - ⚡ **Fun fact:** I think I'm a proud member of the web dev community!  
 
 ---
