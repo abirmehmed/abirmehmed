@@ -1,21 +1,10 @@
 
 # Hi, I'm Islam Md Abirul 👋  
 
-🚀 **A passionate Softwere Developer from Bangladesh **  
+🚀  **A passionate Softwere Developer from Bangladesh **  
 
----
 
-### **GitHub Stats**  
-📌 **Committs:** `Super Committer` **1.5k** pts  
-📌 **Repositories:** `Hyper Repo Creator` **49** pts  
-📌 **Stars:** `You are a Star` **33** pts  
-📌 **Followers:** `Many Friends` **17** pts  
-📌 **Issues:** `First Issue` **2** pts  
-📌 **PullRequest:** `First Pull` **8** pts  
-📌 **Experience:** `Newbie` **5** pts  
-📌 **Reviews:** `Unknown` **0** pts  
-
----
+ ![](https://leetcard.jacoblin.cool/abirmehmed?ext=activity)
 
 ### **About Me**  
 - 🌱 **Currently learning:** TypeScript, PostgreSQL, NestJS & NextJS  
